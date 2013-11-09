@@ -1,0 +1,23 @@
+
+
+
+
+
+maximize option tree (entropy related) under various circumstances
+
+--> ref paper on this: http://prl.aps.org/abstract/PRL/v110/i16/e168702
+    note: requires ability to model potential future states and how decisions impact them and qualify decision based on option tree maximization (or least options closed)
+
+
+
+
+further reading:
+  friendly ai - elizer
+  GEB
+
+
+
+random parallel to startups:
+  as long as startup does not die, it will be succesful
+  ==
+  as long as an intelligen being does not die (options -> 0), it will eventually maximize its option tree (w/ startups, this is hitting it big)
